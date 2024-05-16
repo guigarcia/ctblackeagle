@@ -1,0 +1,37 @@
+[18-Sep-2023 00:26:09 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 00:26:37 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 00:32:37 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 00:32:56 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 00:38:19 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 00:41:02 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 00:42:46 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 00:43:05 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 00:44:22 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[18-Sep-2023 01:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:304
+Stack trace:
+#0 /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(177): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(89, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php(175): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home2/guigar66/ctblackeagle.com.br/wp-includes/class-wp-hook.php(310): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home2/guigar66/ctblackeagle.com.br/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#5 /home2/guigar66/ctblackeagle.com.br/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/guigar66/ctblackeagle.com.br/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 304
+[18-Sep-2023 02:02:17 UTC] PHP Warning:  Undefined array key "data" in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[20-Sep-2023 22:46:22 UTC] PHP Warning:  Array to string conversion in /home2/guigar66/ctblackeagle.com.br/wp-includes/formatting.php on line 1104
+[20-Sep-2023 22:46:22 UTC] PHP Warning:  Array to string conversion in /home2/guigar66/ctblackeagle.com.br/wp-includes/formatting.php on line 1104
+[20-Sep-2023 22:46:22 UTC] PHP Warning:  Array to string conversion in /home2/guigar66/ctblackeagle.com.br/wp-includes/formatting.php on line 1104
+[20-Sep-2023 22:46:22 UTC] PHP Warning:  Array to string conversion in /home2/guigar66/ctblackeagle.com.br/wp-includes/formatting.php on line 1104
+[20-Sep-2023 22:46:22 UTC] PHP Warning:  Array to string conversion in /home2/guigar66/ctblackeagle.com.br/wp-includes/formatting.php on line 1104
+[20-Sep-2023 22:46:22 UTC] PHP Warning:  Array to string conversion in /home2/guigar66/ctblackeagle.com.br/wp-includes/formatting.php on line 1104
+[25-Sep-2023 19:49:27 UTC] WordPress database error Table 'guigar66_wp700.wpio_userfeedback_surveys' doesn't exist for query DESCRIBE wpio_userfeedback_surveys made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, UserFeedback_Base->fix_db_timestamp_column
+[05-Oct-2023 13:48:48 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/manifest.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783
+[05-Oct-2023 13:51:59 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/plugin/elementor-pro.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783
+[05-Oct-2023 13:53:06 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/plugin/elementor.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783
+[05-Oct-2023 13:55:12 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/plugin/elementor-pro.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783
+[05-Oct-2023 13:57:26 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/plugin/w3-total-cache.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783
+[05-Oct-2023 13:59:26 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/plugin/wordpress-seo.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783
+[05-Oct-2023 14:02:24 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/plugin/userfeedback-lite.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783
+[05-Oct-2023 14:03:24 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/plugin/w3-total-cache.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783
+[05-Oct-2023 14:05:30 UTC] PHP Warning:  file_get_contents(https://downloads.really-simple-security.com/rsssl/vulnerabilities/V1/plugin/optinmonster.json): Failed to open stream: Connection timed out in /home2/guigar66/ctblackeagle.com.br/wp-content/plugins/really-simple-ssl/security/wordpress/vulnerabilities.php on line 783

@@ -1,0 +1,96 @@
+# Translation of Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Development (trunk) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-23 10:41:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Development (trunk)\n"
+
+#: languages/vue.php:1982
+msgid "Performance"
+msgstr "Desempenho"
+
+#: includes/admin/admin.php:37 includes/admin/admin.php:43
+#: includes/admin/admin.php:55 includes/admin/admin.php:192
+#: includes/admin/admin.php:195 includes/admin/admin.php:231
+#: languages/vue.php:246
+msgid "Insights"
+msgstr "Insights"
+
+#. Author of the plugin
+#: includes/admin/admin.php:37 includes/admin/admin.php:40
+#: includes/admin/admin.php:52 includes/admin/wp-site-health.php:35
+#: includes/emails/class-emails.php:255
+#: lite/includes/admin/dashboard-widget.php:99
+#: lite/includes/admin/wp-site-health.php:231
+#: lite/includes/admin/wp-site-health.php:283
+#: lite/includes/admin/wp-site-health.php:310
+#: lite/includes/admin/wp-site-health.php:348
+#: lite/includes/admin/wp-site-health.php:375
+#: lite/includes/admin/wp-site-health.php:400
+#: lite/includes/admin/wp-site-health.php:439
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: languages/vue.php:4353
+msgid "Next"
+msgstr "Seguinte"
+
+#: includes/admin/reports/overview.php:34 languages/vue.php:578
+msgid "Overview"
+msgstr "Visão geral"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:323 languages/vue.php:536
+msgid "General"
+msgstr "Gerais"
+
+#: languages/vue.php:551
+msgid "Advanced"
+msgstr "Avançadas"
+
+#: languages/vue.php:2584
+msgid "Enhanced Link Attribution"
+msgstr "Atribuição avançada de ligações"
+
+#: languages/vue.php:979
+msgid "License Key"
+msgstr "Chave da licença"
+
+#: languages/vue.php:2241
+msgid "Enable Demographics and Interests Reports for Remarketing and Advertising"
+msgstr "Activar os relatórios de Dados demográficos e Interesses para marketing e publicidade"
+
+#: languages/vue.php:464
+msgid "Save Changes"
+msgstr "Guardar alterações"
+
+#: includes/admin/admin.php:40 includes/admin/admin.php:52
+#: includes/admin/admin.php:338 languages/vue.php:530
+msgid "Settings"
+msgstr "Definições"
+
+#: languages/vue.php:4350
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/admin/admin.php:49 includes/admin/admin.php:235
+#: languages/vue.php:1992
+msgid "Reports"
+msgstr "Relatórios"
+
+#: languages/vue.php:341
+msgid "Custom Dimensions"
+msgstr "Dimensões personalizadas"
+
+#: languages/vue.php:2232
+msgid "Manually enter your UA code"
+msgstr "Inserir manualmente o seu código UA"
+
+#: languages/vue.php:1985
+msgid "Custom code"
+msgstr "Código personalizado"

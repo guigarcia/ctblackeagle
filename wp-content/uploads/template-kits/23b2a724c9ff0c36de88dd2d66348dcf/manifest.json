@@ -1,0 +1,1327 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Gympact - Fitness and Gym Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/contact-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/contact-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Gallery",
+            "screenshot": "screenshots\/our-gallery.jpg",
+            "source": "templates\/our-gallery.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/our-gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Pricings",
+            "screenshot": "screenshots\/our-pricings.jpg",
+            "source": "templates\/our-pricings.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/our-pricings\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Trainers",
+            "screenshot": "screenshots\/our-trainers.jpg",
+            "source": "templates\/our-trainers.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/our-trainers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Classes",
+            "screenshot": "screenshots\/classes.jpg",
+            "source": "templates\/classes.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/classes\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/gympact\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.2.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.0.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.11",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "cross-training-rope-swing-exercise-e1601866343471.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/cross-training-rope-swing-exercise-e1601866343471.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 126620,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZM9BX2"
+        },
+        {
+            "filename": "young-man-exercising-using-battle-rope-e1601866595715.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/young-man-exercising-using-battle-rope-e1601866595715.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 177114,
+            "dimensions": [
+                1920,
+                1279
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RZ63HKT"
+        },
+        {
+            "filename": "Asset-2@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Asset-2@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1432,
+            "dimensions": [
+                112,
+                113
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fitness-icons-pack-PK2TUZY"
+        },
+        {
+            "filename": "Cardio@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Cardio@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 1443,
+            "dimensions": [
+                112,
+                112
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fitness-icons-pack-PK2TUZY"
+        },
+        {
+            "filename": "woman-in-crossfit-workout-with-hammer-e1601866791141.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/woman-in-crossfit-workout-with-hammer-e1601866791141.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/our-pricings.json",
+                    "name": "Our Pricings"
+                }
+            ],
+            "filesize": 229432,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DK5B2PS"
+        },
+        {
+            "filename": "Asset-1@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Asset-1@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 1391,
+            "dimensions": [
+                96,
+                112
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fitness-icons-pack-PK2TUZY"
+        },
+        {
+            "filename": "slamming-his-way-to-fitness-e1601869217915.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/slamming-his-way-to-fitness-e1601869217915.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 117316,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-79HJJNU"
+        },
+        {
+            "filename": "sportsman-on-training-endurance-workout-with-ropes-e1601866835973.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/sportsman-on-training-endurance-workout-with-ropes-e1601866835973.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 100149,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PT8W42J"
+        },
+        {
+            "filename": "young-healthy-male-athlete-doing-exercises-in-the-gym-e1601866694259.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/young-healthy-male-athlete-doing-exercises-in-the-gym-e1601866694259.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 280154,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVE2N6K"
+        },
+        {
+            "filename": "training-with-battle-rope-e1601869285606.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/training-with-battle-rope-e1601869285606.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 77512,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW56X3J"
+        },
+        {
+            "filename": "fit-group-of-people-exercising-on-a-treadmill-in-gym-1-e1601866904742.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/fit-group-of-people-exercising-on-a-treadmill-in-gym-1-e1601866904742.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 140932,
+            "dimensions": [
+                1920,
+                1194
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-95G38G9"
+        },
+        {
+            "filename": "strong-athlete-with-dumbbells-training-in-gym-e1601868985689.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/strong-athlete-with-dumbbells-training-in-gym-e1601868985689.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 123905,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C5HWS9T"
+        },
+        {
+            "filename": "group-of-women-performing-yoga-e1601869035571.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/group-of-women-performing-yoga-e1601869035571.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 110356,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TMD3856"
+        },
+        {
+            "filename": "man-doing-crossfit-exercise-with-rope-e1601869101883.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/man-doing-crossfit-exercise-with-rope-e1601869101883.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 85152,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R28KJZG"
+        },
+        {
+            "filename": "taking-his-weight-training-to-the-next-level-e1601866636207.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/taking-his-weight-training-to-the-next-level-e1601866636207.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 188295,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KBQF4AP"
+        },
+        {
+            "filename": "two-women-boxing-in-the-ring-box-training-e1601869150169.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/10\/two-women-boxing-in-the-ring-box-training-e1601869150169.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 129643,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GRXDH7J"
+        },
+        {
+            "filename": "Testimonial-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Testimonial-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-pricings.json",
+                    "name": "Our Pricings"
+                }
+            ],
+            "filesize": 9115,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M6NJPEF"
+        },
+        {
+            "filename": "Testimonial-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Testimonial-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-pricings.json",
+                    "name": "Our Pricings"
+                }
+            ],
+            "filesize": 8896,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83S5W35"
+        },
+        {
+            "filename": "Testimonial-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Testimonial-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-pricings.json",
+                    "name": "Our Pricings"
+                }
+            ],
+            "filesize": 9132,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8JDNBT"
+        },
+        {
+            "filename": "full-body-workout-e1601866428644.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/full-body-workout-e1601866428644.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 192836,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CHTJTN4"
+        },
+        {
+            "filename": "Trainer-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Trainer-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 258904,
+            "dimensions": [
+                400,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CMLMQWP"
+        },
+        {
+            "filename": "Trainer-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Trainer-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 272502,
+            "dimensions": [
+                400,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KYPPA3T"
+        },
+        {
+            "filename": "taking-his-training-to-the-next-level-e1601866479819.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/taking-his-training-to-the-next-level-e1601866479819.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 229071,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-57PNRKF"
+        },
+        {
+            "filename": "woman-in-boxing-bandages-hits-a-punching-bag-box-e1601866548328.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/woman-in-boxing-bandages-hits-a-punching-bag-box-e1601866548328.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 208941,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-524VC44"
+        },
+        {
+            "filename": "discover-your-own-strengths-e1601866089747.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/discover-your-own-strengths-e1601866089747.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-pricings.json",
+                    "name": "Our Pricings"
+                }
+            ],
+            "filesize": 327783,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GGN3C96"
+        },
+        {
+            "filename": "strong-male-athlete-running-on-modern-treadmill-e1601868819634.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/strong-male-athlete-running-on-modern-treadmill-e1601868819634.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 115132,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9F9G58W"
+        },
+        {
+            "filename": "Trainer-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Trainer-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 325767,
+            "dimensions": [
+                400,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KKYBLWY"
+        },
+        {
+            "filename": "easy-yoga-pose-e1601866235791.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/easy-yoga-pose-e1601866235791.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 121606,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSA3QRR"
+        },
+        {
+            "filename": "portrait-of-female-boxer-with-protective-wraps-on-hands-training-in-gym.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/portrait-of-female-boxer-with-protective-wraps-on-hands-training-in-gym.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 312866,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MSKU7DG"
+        },
+        {
+            "filename": "Crossfit@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Crossfit@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 655,
+            "dimensions": [
+                120,
+                72
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fitness-icons-pack-PK2TUZY"
+        },
+        {
+            "filename": "Fitness@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Fitness@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 1163,
+            "dimensions": [
+                112,
+                110
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fitness-icons-pack-PK2TUZY"
+        },
+        {
+            "filename": "Boxing@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Boxing@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 1161,
+            "dimensions": [
+                84,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fitness-icons-pack-PK2TUZY"
+        },
+        {
+            "filename": "Yoga@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Yoga@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 1999,
+            "dimensions": [
+                120,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fitness-icons-pack-PK2TUZY"
+        },
+        {
+            "filename": "muscular-athlete-trains-legs-on-exercise-machine-e1601868873820.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/muscular-athlete-trains-legs-on-exercise-machine-e1601868873820.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 102702,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8XCEBHQ"
+        },
+        {
+            "filename": "bodybuilder-training-back-on-exercise-machine-e1601868849135.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/bodybuilder-training-back-on-exercise-machine-e1601868849135.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 112047,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4SVC4JR"
+        },
+        {
+            "filename": "box-training-e1601866757958.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/box-training-e1601866757958.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-pricings.json",
+                    "name": "Our Pricings"
+                }
+            ],
+            "filesize": 150773,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JTD4Q85"
+        },
+        {
+            "filename": "fitness-people-hands-lifting-kettle-bell-e1601865836547.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/fitness-people-hands-lifting-kettle-bell-e1601865836547.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/contact-1.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 196829,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-593SF26"
+        },
+        {
+            "filename": "crossfit-with-weight-e1601866194347.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/crossfit-with-weight-e1601866194347.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 220537,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKNY4AH"
+        },
+        {
+            "filename": "Testimonial.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Testimonial.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 7094,
+            "dimensions": [
+                81,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV9ABZR"
+        },
+        {
+            "filename": "cross-training-young-woman-exercising-at-the-gym-e1601866957622.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/cross-training-young-woman-exercising-at-the-gym-e1601866957622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 191483,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PK96LSH"
+        },
+        {
+            "filename": "Trainer-6.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Trainer-6.png",
+            "templates": [
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 295561,
+            "dimensions": [
+                400,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SD3MY89"
+        },
+        {
+            "filename": "Trainer-8.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Trainer-8.png",
+            "templates": [
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 362896,
+            "dimensions": [
+                400,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GN8E4SM"
+        },
+        {
+            "filename": "Trainer-7.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/Trainer-7.png",
+            "templates": [
+                {
+                    "source": "templates\/our-trainers.json",
+                    "name": "Our Trainers"
+                }
+            ],
+            "filesize": 260661,
+            "dimensions": [
+                400,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C5ATCF5"
+        },
+        {
+            "filename": "pushing-himself-to-the-limit-e1601865974487.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/pushing-himself-to-the-limit-e1601865974487.jpg",
+            "templates": [
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 182674,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XBWD7MV"
+        },
+        {
+            "filename": "women-on-boxing-training-e1601866011681.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/09\/women-on-boxing-training-e1601866011681.jpg",
+            "templates": [
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 206476,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3SFTZW2"
+        },
+        {
+            "filename": "Logo-gympact.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/gympact\/wp-content\/uploads\/sites\/11\/2020\/10\/Logo-gympact.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 12036,
+            "dimensions": [
+                574,
+                142
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/thunder-fit-logo-template-YPLCU7"
+        }
+    ]
+}

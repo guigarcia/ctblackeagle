@@ -1,0 +1,1 @@
+.þ:f<?php exit; ?>a:1:{s:7:"content";s:131:"a:4:{s:4:"type";s:7:"success";s:5:"email";s:25:"admin@ctblackeagle.com.br";s:7:"version";s:5:"6.5.3";s:9:"timestamp";i:1715142010;}";}
